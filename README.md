@@ -611,11 +611,11 @@ You can test the API using Postman or any other API testing tool. Here are the k
 
 The following screenshots show the API testing in Postman:
 
-![Upload File Controller](./IndexFileController.png)
-![Status Controller](./statusController.png)
-![File Content Controller](./fileContentController.png)
-![List File Controller](./listFileController.png)
-![Delete File Controller](./deleteFileController.png)
+![Upload File Controller](./Postman/IndexFileController.png)
+![Status Controller](./Postman/statusController.png)
+![File Content Controller](./Postman/fileContentController.png)
+![List File Controller](./Postman/listFileController.png)
+![Delete File Controller](./Postman/deleteFileController.png)
 
 ##  Error Handling
 
