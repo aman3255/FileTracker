@@ -1,0 +1,9 @@
+.env
+node_modules/ 
+.DS_Store
+statusController.png
+listFileController.png
+IndexFileController.png
+fileContentController.png
+deleteFileController.png
+uploads/
