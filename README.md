@@ -26,7 +26,7 @@ A robust Node.js REST API for file upload, processing, and management with real-
 
 - Node.js (v14 or higher)
 - MongoDB database
-- npm or yarn package manager
+- npm package manager
 
 ##  Setup Instructions
 
